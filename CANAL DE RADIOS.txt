@@ -1,0 +1,15 @@
+<channels>
+<channel>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR yellow]CANAL 1[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<thumbnail>https://teletronix.com.br/wp-content/uploads/2019/02/262121-radio-online-e-radio-tradicional-aprenda-as-diferencas.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/ZqygT3hV</externallink>
+<fanart>https://archive.org/details/fanart_20191012</fanart>
+<info>
+
+<channels>
+<channel>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR yellow]CANAL 2[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<thumbnail>https://teletronix.com.br/wp-content/uploads/2019/02/262121-radio-online-e-radio-tradicional-aprenda-as-diferencas.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/TDEykY7M</externallink>
+<fanart>https://archive.org/details/fanart_20191012</fanart>
+<info>

@@ -1,0 +1,36 @@
+<channels>
+<channel>
+<name>[B][COLOR indigo]###[/COLOR][COLOR deeppink]###[/COLOR][COLOR orangered]###[/COLOR] [COLOR white]POP ROCK BRASIL[/COLOR] [COLOR orangered]###[/COLOR][COLOR deeppink]###[/COLOR][COLOR indigo]###[/COLOR][/B]</name>
+<thumbnail>https://i.postimg.cc/rspNkL90/POP-ROCK-BRASIL.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/N3CnUVGT</externallink>
+<fanart>https://i.postimg.cc/65G7YtL1/FANART-MUSICA.jpg</fanart>
+</channels>
+</channel>
+####################################################################################
+<channels>
+<channel>
+<name>[B][COLOR indigo]###[/COLOR][COLOR deeppink]###[/COLOR][COLOR orangered]###[/COLOR] [COLOR white]SOM BRASIL[/COLOR] [COLOR orangered]###[/COLOR][COLOR deeppink]###[/COLOR][COLOR indigo]###[/COLOR][/B]</name>
+<thumbnail>https://i.postimg.cc/9FrYgCMs/Som-Brasil.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/54xgesQ9</externallink>
+<fanart>https://i.postimg.cc/65G7YtL1/FANART-MUSICA.jpg</fanart>
+</channels>
+</channel>
+####################################################################################
+<channels>
+<channel>
+<name>[B][COLOR indigo]###[/COLOR][COLOR deeppink]###[/COLOR][COLOR orangered]###[/COLOR] [COLOR white][/COLOR]SERTANEJO [COLOR orangered]###[/COLOR][COLOR deeppink]###[/COLOR][COLOR indigo]###[/COLOR][/B]</name>
+<thumbnail>https://i.postimg.cc/c1DccrsQ/SERTANEJO2.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/6B05Sd4Z</externallink>
+<fanart>https://i.postimg.cc/65G7YtL1/FANART-MUSICA.jpg</fanart>
+</channels>
+</channel>
+####################################################################################
+<channels>
+<channel>
+<name>[B][COLOR indigo]###[/COLOR][COLOR deeppink]###[/COLOR][COLOR orangered]###[/COLOR] [COLOR white][/COLOR]POP ROCK INTERNACIONAL [COLOR orangered]###[/COLOR][COLOR deeppink]###[/COLOR][COLOR indigo]###[/COLOR][/B]</name>
+<thumbnail>https://i.postimg.cc/MT5mNG1J/pop-rock-internacional.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/C31ASks7</externallink>
+<fanart>https://i.postimg.cc/65G7YtL1/FANART-MUSICA.jpg</fanart>
+</channels>
+</channel>
+####################################################################################
