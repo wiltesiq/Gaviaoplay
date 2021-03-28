@@ -2,7 +2,7 @@
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]FILMES AVULSOS [COLOR yellow] (LINK DIRETO)[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/3J3jSKD5/filmes-avulsos.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/jKxJn9Z5</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/Gaviaoplay/main/FILMES%20AVULSOS%20LISTA%201.txt</externallink>
 <fanart>https://i.postimg.cc/wMCz0W00/FANART-FILMES-AVULSOS.jpg</fanart>
 <info>[B][COLOR yellow]TODOS OS FILMES DA LISTA EM LINKS DIRETOS,POREM AS VEZES FICAM OFF LINE,MAS LOGO VOLTAM A FICAR ON LINE.[/COLOR][/B]</info>
 </channels>
