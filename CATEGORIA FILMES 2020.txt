@@ -1,0 +1,18 @@
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]FILMES LEGENDADOS [COLOR yellow]2021[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://i.postimg.cc/NjxBVh4N/FILMES-2020-SERV-1.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/tuf6hHkL</externallink>
+<info>[B][COLOR yellow]AQUI ESTARÃO FILMES LANÇADOS EM 2020, TODOS EM ARQUIVOS TORRENTES, É NESCESSARIO TER O ADDON ELEMENTUM  E O ELEMENTUM BURST INSTALADOS PARA ABRIR OS LINKS.[/COLOR][/B]</info>
+</channel>
+</channels>
+ 
+ <channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]FILMES LEGENDADOS  [COLOR yellow]2020[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://i.postimg.cc/fLR0HP21/FILMES-2020-SERV-2.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/X05VMhe7</externallink>
+<info>[B][COLOR yellow]AQUI ESTARÃO FILMES LANÇADOS EM 202O, TODOS POREM AS VEZES FICAM OFF LINE, MAS LOGO VOLTAM A FICAR ON LINE.[/COLOR][/B]</info>
+</channel>
+</channels>
+
