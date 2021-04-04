@@ -56,7 +56,7 @@
 <channel>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white] TOP CINE[COLOR yellow] ÉPICO[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://i.postimg.cc/L8Wq6SGB/top-cine-epico.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/2fEd0Fst</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/Gaviaoplay/main/TOP%20CINE%20EPICO.txt</externallink>
 <fanart>https://i.postimg.cc/XvDrqbhk/top-cine-epico.jpg</fanart>
 <info>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
