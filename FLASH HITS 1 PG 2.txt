@@ -4,10 +4,10 @@
 <item><title>[B][COLOR yellow]###########################################[[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
 
 
-<item><title>[B][COLOR yellow]##########[/COLOR][COLOR lime]PROXIMA PAGINA[/COLOR][COLOR yellow]##########[/COLOR][/B]<title><link>IGNOREME</link><externallink>https://pastebin.com/raw/ug8fNS4L</externallink><thumbnail>ignoreme</Thumbnail></item>
+<item><title>[B][COLOR yellow]##########[/COLOR][COLOR lime]PROXIMA PAGINA[/COLOR][COLOR yellow]##########[/COLOR][/B]<title><link>IGNOREME</link><externallink>https://raw.githubusercontent.com/wilsongaviao/Gaviaoplay/main/FLASH%20HITS%201%20PG%203.txt</externallink><thumbnail>ignoreme</Thumbnail></item>
  
 
-<item><title>[B][COLOR crimson]##########[/COLOR][COLOR yellow]PAGINA ANTERIOR[/COLOR][COLOR crimson]##########[/COLOR][/B]<title><link>IGNOREME</link><externallink>https://pastebin.com/raw/7m3sV5JJ</externallink><thumbnail>ignoreme</Thumbnail></item
+<item><title>[B][COLOR crimson]##########[/COLOR][COLOR yellow]PAGINA ANTERIOR[/COLOR][COLOR crimson]##########[/COLOR][/B]<title><link>IGNOREME</link><externallink>https://raw.githubusercontent.com/wilsongaviao/Gaviaoplay/main/FLASH%20HITS%201%20PG%201.txt</externallink><thumbnail>ignoreme</Thumbnail></item
 
 
 <item><title>[B][COLOR white]3 Doors Down  - [COLOR yellow] Here Without You[/COLOR][/B]</title>
@@ -308,7 +308,7 @@ link>https://ia801800.us.archive.org/7/items/videohits2/Aerosmith%20-%20Crazy.ia
 <link>https://ia801800.us.archive.org/7/items/videohits2/Whitesnake%20-%20Here%20I%20Go%20Again.ia.mp4</link><thumbnail>IGNOREME</thumbnail></item>
 
 
-<item><title>[B][COLOR yellow]##########[/COLOR][COLOR lime]PROXIMA PAGINA[/COLOR][COLOR yellow]##########[/COLOR][/B]<title><link>IGNOREME</link><externallink>https://pastebin.com/raw/ug8fNS4L</externallink><thumbnail>ignoreme</Thumbnail></item>
+<item><title>[B][COLOR yellow]##########[/COLOR][COLOR lime]PROXIMA PAGINA[/COLOR][COLOR yellow]##########[/COLOR][/B]<title><link>IGNOREME</link><externallink>https://raw.githubusercontent.com/wilsongaviao/Gaviaoplay/main/FLASH%20HITS%201%20PG%203.txtL</externallink><thumbnail>ignoreme</Thumbnail></item>
  
 
-<item><title>[B][COLOR crimson]##########[/COLOR][COLOR yellow]PAGINA ANTERIOR[/COLOR][COLOR crimson]##########[/COLOR][/B]<title><link>IGNOREME</link><externallink>https://pastebin.com/raw/7m3sV5JJ</externallink><thumbnail>ignoreme</Thumbnail></item
+<item><title>[B][COLOR crimson]##########[/COLOR][COLOR yellow]PAGINA ANTERIOR[/COLOR][COLOR crimson]##########[/COLOR][/B]<title><link>IGNOREME</link><externallink>https://raw.githubusercontent.com/wilsongaviao/Gaviaoplay/main/FLASH%20HITS%201%20PG%201.txt</externallink><thumbnail>ignoreme</Thumbnail></item
