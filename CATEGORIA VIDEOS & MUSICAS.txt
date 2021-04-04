@@ -2,7 +2,7 @@
 <channel>
 <name>[B][COLOR indigo]###[/COLOR][COLOR deeppink]###[/COLOR][COLOR orangered]###[/COLOR] [COLOR white]VIDEO CLIPS[/COLOR] [COLOR orangered]###[/COLOR][COLOR deeppink]###[/COLOR][COLOR indigo]###[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/25G3gFG9/VIDEOCLIPS.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/jaqqHyWa</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/Gaviaoplay/main/CATEGORIA%20VIDEO%20CLIPS.txt</externallink>
 <fanart>https://i.postimg.cc/8zR7g4YR/FANART-VIDEOCLIPS.jpg</fanart>
 </channels>
 </channel>
@@ -30,7 +30,7 @@
 <channel>
 <name>[B][COLOR indigo]###[/COLOR][COLOR deeppink]###[/COLOR][COLOR orangered]###[/COLOR] [COLOR white]SHOWS[/COLOR] [COLOR orangered]###[/COLOR][COLOR deeppink]###[/COLOR][COLOR indigo]###[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/hjwvrbYs/shows.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/gYChFLB5</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/Gaviaoplay/main/CATEGORIA%20SHOWS.txt</externallink>
 <fanart>https://i.ytimg.com/vi/sklbq8DyNfQ/maxresdefault.jpg</fanart>
 </channels>
 </channel>
