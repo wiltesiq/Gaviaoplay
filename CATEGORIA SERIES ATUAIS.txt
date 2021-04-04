@@ -60,7 +60,7 @@ Tentando localizá-la, XIII (Stuart Townsend, do remake de “Kolchack/Night Sta
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]A MEDIUM[COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/i7JiKpw5HZpf1nf8US4bR8lbTAp.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/sEc9fZjA</externallink>
+<externallink>https://raw.githubusercontent.com/wilsongaviao/Gaviaoplay/main/A%20MEDIUM.txt</externallink>
 <fanart>https://image.tmdb.org/t/p/original/jqUgrSO7U3ILxEigy15NjaHwHLc.jpg</fanart>
 <info>[B][COLOR yellow]Allison, uma jovem mulher, luta para entender seus sonhos e visões de pessoas mortas desde a infância. Ela é dedicada aos três filhos, marido, curso de direito e ao estágio na promotoria. Seu desafio é convencer seu chefe, Devalos, e outros no departamento de que seus poderes psíquicos podem ajudar na solução de crimes, cujos mistérios só podem ser esclarecidos pelos que vivem além do túmulo.[/B][/COLOR]</info>
  
