@@ -5,7 +5,7 @@
 
 
 <item><title>[B][COLOR red]############################################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item><item>
-<title>[COLOR red]####[COLOR lime] A MEDIUM -[COLOR yellow] 1ªTemporada[COLOR red] ####[/COLOR][/B]</title>
+<item><title>[COLOR red]####[COLOR lime] A MEDIUM -[COLOR yellow] 1ªTemporada[COLOR red] ####[/COLOR][/B]</title>
 <linkIGNOREME</link>
 <thumbnail>https://media.fstatic.com/xtCExtzvzJI6yqbfC4QyBAd4rVY=/290x478/smart/media/movies/covers/2011/07/49be860a49fc86f05559f02a3cd1c363.jpg</thumbnail></item>
 <item><title>[B][COLOR red]############################################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
